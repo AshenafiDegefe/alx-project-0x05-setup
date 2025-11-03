@@ -48,7 +48,8 @@ next.config.ts
 globals.d.ts 
 postcss.config.mjs 
 _document.tsx 
-api 
+hello.ts 
+_app.tsx 
 styles  
 public
 .env.local
